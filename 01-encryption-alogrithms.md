@@ -1,0 +1,12 @@
+### Encryption algorithms
+- DES
+    - Obsolete and Symmetric
+- 3DES
+    - Obsolete and symmetric
+- AES
+    - Modern and symmetric
+- RSA
+    - Modern and asymmetric
+    - RSA was named after its three creators
+    - Key length: 1024, 2048, 3072, 4096
+    - Its a public key crypto system
